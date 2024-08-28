@@ -1,0 +1,32 @@
+{
+  "category": "Scene",
+  "description": "Render features in a scene statically or dynamically by checking the feature layer rendering performance.",
+  "formal_name": "Scene",
+  "ignore": false,
+  "images": [
+    "FeatureLayerPerformance3D.jpg"
+  ],
+  "keywords": [
+    "3D",
+    "feature layer",
+    "rendering",
+    "performance",
+    "dynamic",
+    "static"
+  ],
+  "offline_data": [],
+  "redirect_from": [
+    "/net/latest/wpf/sample-code/feature-layer-performance-3d.htm"
+  ],
+  "relevant_apis": [
+    "FeatureLayer",
+    "FeatureLayer.RenderingMode",
+    "Scene",
+    "SceneView"
+  ],
+  "snippets": [
+    "FeatureLayerPerformance3D.xaml.cs",
+    "FeatureLayerPerformance3D.xaml"
+  ],
+  "title": "Feature layer performance 3D"
+}
