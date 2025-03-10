@@ -6,6 +6,7 @@
 		</Category>
 		<Category name="Data">
 			<Sample>ManageFeatures</Sample>
+			<Sample>EditFeaturesUsingFeatureForms</Sample>
 		</Category>
 		<Category name="Geometry">
 			<Sample>CreateAndEditGeometries</Sample>
@@ -28,9 +29,15 @@
 			<Sample>DisplayOverviewMap</Sample>
 			<Sample>CreateDynamicBasemapGallery</Sample>
         </Category>
+		<Category name="MapView">
+			<Sample>DisplayGrid</Sample>
+		</Category>
 		<Category name="Scene">
 			<Sample>FilterFeaturesInScene</Sample>
 			<Sample>ShowLabelsOnLayer3D</Sample>
+		</Category>
+		<Category name="Symbology">
+			<Sample>StyleGeometryTypesWithSymbols</Sample>
 		</Category>
 		<Category name="UtilityNetwork">
 			<Sample>CreateLoadReport</Sample>

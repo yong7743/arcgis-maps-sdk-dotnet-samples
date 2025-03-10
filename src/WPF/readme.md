@@ -16,6 +16,7 @@
 * [Create mobile geodatabase](WPF.Viewer/Samples/Data/CreateMobileGeodatabase) - Create and share a mobile geodatabase.
 * [Edit and sync features](WPF.Viewer/Samples/Data/EditAndSyncFeatures) - Synchronize offline edits with a feature service.
 * [Edit feature attachments](WPF.Viewer/Samples/Data/EditFeatureAttachments) - Add, delete, and download attachments for features from a service.
+* [Edit features using feature forms](WPF.Viewer/Samples/Data/EditFeaturesUsingFeatureForms) - Display and edit feature attributes using feature forms.
 * [Edit features with feature-linked annotation](WPF.Viewer/Samples/Data/EditFeatureLinkedAnnotation) - Edit feature attributes which are linked to annotation through an expression.
 * [Edit with branch versioning](WPF.Viewer/Samples/Data/EditBranchVersioning) - Create, query and edit a specific server version using service geodatabase.
 * [Feature layer query](WPF.Viewer/Samples/Data/FeatureLayerQuery) - Find features in a feature table which match an SQL query.
@@ -197,7 +198,7 @@
 * [Change time extent](WPF.Viewer/Samples/MapView/ChangeTimeExtent) - Filter data in layers by applying a time extent to a MapView.
 * [Change viewpoint](WPF.Viewer/Samples/MapView/ChangeViewpoint) - Set the map view to a new viewpoint.
 * [Display draw status](WPF.Viewer/Samples/MapView/DisplayDrawingStatus) - Get the draw status of your map view or scene view to know when all layers in the map or scene have finished drawing.
-* [Display grid](WPF.Viewer/Samples/MapView/DisplayGrid) - Display coordinate system grids including Latitude/Longitude, MGRS, UTM and USNG on a map view. Also, toggle label visibility and change the color of grid lines and grid labels.
+* [Display grid](WPF.Viewer/Samples/MapView/DisplayGrid) - Display and customize coordinate system grids including Latitude/Longitude, MGRS, UTM and USNG on a map view or scene view.
 * [Display layer view state](WPF.Viewer/Samples/MapView/DisplayLayerViewState) - Determine if a layer is currently being viewed.
 * [Feature layer time offset](WPF.Viewer/Samples/MapView/FeatureLayerTimeOffset) - Display a time-enabled feature layer with a time offset.
 * [Filter by time extent](WPF.Viewer/Samples/MapView/FilterByTimeExtent) - The time slider provides controls that allow you to visualize temporal data by applying a specific time extent to a map view.
@@ -259,12 +260,11 @@
 * [Custom dictionary style](WPF.Viewer/Samples/Symbology/CustomDictionaryStyle) - Use a custom dictionary created from a web style or style file (.stylx) to symbolize features using a variety of attribute values.
 * [Distance composite scene symbol](WPF.Viewer/Samples/Symbology/UseDistanceCompositeSym) - Change a graphic's symbol based on the camera's proximity to it.
 * [Feature layer extrusion](WPF.Viewer/Samples/Symbology/FeatureLayerExtrusion) - Extrude features based on their attributes.
-* [Picture marker symbol](WPF.Viewer/Samples/Symbology/RenderPictureMarkers) - Use pictures for markers.
 * [Read symbols from mobile style](WPF.Viewer/Samples/Symbology/SymbolsFromMobileStyle) - Combine multiple symbols from a mobile style file into a single symbol.
 * [Render multilayer symbols](WPF.Viewer/Samples/Symbology/RenderMultilayerSymbols) - Show different kinds of multilayer symbols on a map similar to some pre-defined 2D simple symbol styles.
 * [Scene symbols](WPF.Viewer/Samples/Symbology/SceneSymbols) - Show various kinds of 3D symbols in a scene.
-* [Simple marker symbol](WPF.Viewer/Samples/Symbology/RenderSimpleMarkers) - Show a simple marker symbol on a map.
 * [Simple renderer](WPF.Viewer/Samples/Symbology/SimpleRenderers) - Display common symbols for all graphics in a graphics overlay with a renderer.
+* [Style geometry types with symbols](WPF.Viewer/Samples/Symbology/StyleGeometryTypesWithSymbols) - Use a symbol to display a geometry on a map.
 * [Unique value renderer](WPF.Viewer/Samples/Symbology/RenderUniqueValues) - Render features in a layer using a distinct symbol for each unique attribute value.
 
 ## Utility network
